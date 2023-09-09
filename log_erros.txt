@@ -1,0 +1,2 @@
+ O cliente: Larissa Manoela Morais Ferreira Santos de Oliveira  Pinto,não foi cadastrado devido ao numero de caracteres inserido maior do que o permitido. Abreviar e tentar novamente!
+ O cliente: José Mauricio Santos, não pode ser cadastrado pois não possui o campo e-mail (obrigatório) válido.
